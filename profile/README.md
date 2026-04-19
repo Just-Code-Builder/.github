@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🔵 Klix — Web3 Social Super-App
 **X:** [@Klix Social](https://x.com/ZyndrHQ)
