@@ -22,7 +22,7 @@
 
 ## 🌍 What We're Building
 
-> Just-Code-Builder is the engineering organisation behind **Family** — a portfolio of 7 interconnected apps providing the digital rails for Africa's next billion users.
+> Just-Code-Builder is the engineering organisation behind **K-Lab** — a portfolio of 7 interconnected apps providing the digital rails for Africa's next billion users.
 >
 > Every product shares a single backend identity layer (**Kernal**), a single wallet system, KYC, and push notification infrastructure. One account. Every app.
 
@@ -158,7 +158,7 @@ Decentralised VPN + bandwidth marketplace. Node sellers earn by sharing bandwidt
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    K-FAMILY ECOSYSTEM                   │
+│                    K-LAB ECOSYSTEM                   │
 ├─────────────────────────────────────────────────────────┤
 │   Klix    │   Krat    │  Kribs  │ Kredio │ KITE │CloutIx│
 ├─────────────────────────────────────────────────────────┤
