@@ -22,7 +22,7 @@
 
 ## 🌍 What We're Building
 
-> Just-Code-Builder is the engineering organisation behind **ZyndrHQ** — a portfolio of 7 interconnected apps providing the digital rails for Africa's next billion users.
+> Just-Code-Builder is the engineering organisation behind **Family** — a portfolio of 7 interconnected apps providing the digital rails for Africa's next billion users.
 >
 > Every product shares a single backend identity layer (**Kernal**), a single wallet system, KYC, and push notification infrastructure. One account. Every app.
 
@@ -30,24 +30,13 @@
 
 ## 🏗️ Product Portfolio
 
-<div align="center">
-
-### ⚪ Kernal — The Foundation
-**[kernal.io](https://kernal.io)** &nbsp;|&nbsp; [@ZyndrHQ](https://x.com/ZyndrHQ)
-
-> Africa's Core API. Auth · Wallet · KYC · Notifications · Identity.
-> Every K-Family app connects through Kernal. Phone number = universal identity (E.164).
-
----
-
-</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔵 Klix — Web3 Social Super-App
-**X:** [@ZyndrHQ](https://x.com/ZyndrHQ)
+**X:** [@Klix Social](https://x.com/ZyndrHQ)
 
 Decentralised social layer for Africa. Wave algorithm, creator economy, live commerce integration, Web3 token model. The social discovery layer that connects all K-Family apps.
 
@@ -65,7 +54,7 @@ Super-marketplace combining second-hand & new goods, food ordering, groceries, l
 ---
 
 ### 🟡 CloutIx — Engagement Exchange
-**X:** [@ZyndrHQ](https://x.com/ZyndrHQ) &nbsp;🚀 **Near Live**
+**X:** [@CloutIx](https://x.com/CloutIx) &nbsp;🚀 **Live**
 
 Manual social media task marketplace — buyers get real engagement, earners get paid. Five-level referral structure, influencer tiers, premium membership, multi-account declaration system.
 
@@ -153,7 +142,7 @@ Decentralised VPN + bandwidth marketplace. Node sellers earn by sharing bandwidt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZyndrHQ&show_icons=true&theme=github_dark&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=1f3a24&include_all_commits=true&count_private=true&rank_icon=github&custom_title=ZyndrHQ+Org+Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZyndrHQ&show_icons=true&theme=github_dark&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=1f3a24&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Org+Stats" height="165" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyndrHQ&theme=github_dark&title_color=3fb950&text_color=c9d1d9&border_color=1f3a24&layout=compact&langs_count=8" height="165" />
 
@@ -204,7 +193,7 @@ Decentralised VPN + bandwidth marketplace. Node sellers earn by sharing bandwidt
 
 ---
 
-## 🔗 Connect with ZyndrHQ
+## 🔗 Connect with Team
 
 <div align="center">
 
